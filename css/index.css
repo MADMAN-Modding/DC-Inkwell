@@ -1,0 +1,20 @@
+body {
+    background-color: lightgoldenrodyellow;
+}
+
+.logo {
+    width: 60vh;
+}
+
+#about-us {
+    text-align: left;
+    padding-left: 15%;
+}
+
+hr {
+    height: 2px;
+    width: 80%;
+    background-color: darkgoldenrod;
+    border-color: darkgoldenrod;;
+}
+
