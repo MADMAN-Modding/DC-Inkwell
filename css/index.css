@@ -1,5 +1,7 @@
 body {
-    background-color: lightgoldenrodyellow;
+    /* background-color: lightgoldenrodyellow; */
+    background-image: url("../images/old-paper.jpeg");
+    color: white;
 }
 
 .logo {
@@ -14,7 +16,7 @@ body {
 hr {
     height: 2px;
     width: 80%;
-    background-color: darkgoldenrod;
-    border-color: darkgoldenrod;;
+    background-color: rgb(255, 255, 255);
+    border-color: rgb(255, 255, 255);
 }
 
